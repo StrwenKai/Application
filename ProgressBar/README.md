@@ -1,0 +1,4 @@
+这个ProgressBar主要是和Button 一起调用的
+你看了代码就知道了
+
+实际的要求是点击一下Button，就让ProgressBar按照素组中的值来进行进度的控制
