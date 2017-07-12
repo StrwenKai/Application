@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="button">下一页</string>
+    <string-array name="textView">
+        <item>数据1</item>
+        <item>数据2</item>
+        <item>数据3</item>
+        <item>数据4</item>
+        <item>数据5</item>
+        <item>数据6</item>
+        <item>数据7</item>
+        <item>数据8</item>
+        <item>数据9</item>
+        <item>数据10</item>
+        <item>数据11</item>
+        <item>数据12</item>
+        <item>数据13</item>
+
+    </string-array>
+</resources>
