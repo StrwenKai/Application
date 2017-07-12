@@ -3,6 +3,7 @@
 
     <string name="button">下一页</string>
     <string-array name="textView">
+
         <item>数据1</item>
         <item>数据2</item>
         <item>数据3</item>
